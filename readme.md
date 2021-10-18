@@ -1,1 +1,33 @@
-# C++ example for algorithm learning
+# C++ example for algorithm learnner
+# acwing 算法基础课 代码笔记
+
+该项目的所有代码 仅仅是个人做题笔记和分享 ,[acwing基础课](https://www.acwing.com/activity/content/punch_the_clock/11/)的朋友们欢迎随时来提问。欢迎各位大佬关注并提出问题。
+> 纸上得来终觉浅，绝知此事要躬行
+
+## 第一章 算法基础
+
+1. [浮点数三次方根.cpp](code/lesson_0/浮点数三次方根.cpp)
+2. [高精度加法.cpp](code/lesson_0/高精度加法.cpp)
+3. [高精度减法.cpp](code/lesson_0/高精度减法.cpp)
+4. [高精度乘法.cpp](code/lesson_0/高精度乘法.cpp)
+5. [高精度除法.cpp](code/lesson_0/高精度除法.cpp)
+6. [前缀和](code/lesson_0/前缀和.cpp)
+7. [子矩阵的和](code/lesson_0/子矩阵和.cpp)
+8. [差分](code/lesson_0/差分.cpp)
+9. [差分矩阵](code/lesson_0/差分矩阵.cpp)
+10. [最长连续不重复子序列](code/lesson_0/最长连续不重复子序列.cpp)
+11. [数组元素的目标和](code/lesson_0/数组元素的目标和.cpp)
+12. [判断子序列](code/lesson_0/判断子序列.cpp)
+13. [二进制中1的个数](code/lesson_0/二进制中1的个数.cpp)
+14. [区间和](code/lesson_0/区间和.cpp)
+15. [区间合并](code/lesson_0/区间合并.cpp)
+
+## 第二章 数据结构
+
+1. [单链表](code/lesson_1/单链表.cpp)
+2. [双链表](code/lesson_1/双链表.cpp)
+3. [模拟栈](code/lesson_1/模拟栈.cpp)
+4. [表达式求值](code/lesson_1/表达式求值.cpp)
+5. [模拟队列](code/lesson_1/模拟队列.cpp)
+6. [滑动窗口](code/lesson_1/滑动窗口.cpp)
+7. 
