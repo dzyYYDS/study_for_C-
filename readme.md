@@ -1,4 +1,6 @@
-# C++ example for algorithm learnner
+# acwing study diary
+> 题目来源：[acwing算法基础课](https://www.acwing.com/activity/content/11/)  喜欢的可以去报y总的算法基础课，真的特别的好。
+
 # acwing 算法基础课 代码笔记
 
 该项目的所有代码 仅仅是个人做题笔记和分享 ,[acwing基础课](https://www.acwing.com/activity/content/punch_the_clock/11/)的朋友们欢迎随时来提问。欢迎各位大佬关注并提出问题。
@@ -29,5 +31,19 @@
 3. [模拟栈](code/lesson_1/模拟栈.cpp)
 4. [表达式求值](code/lesson_1/表达式求值.cpp)
 5. [模拟队列](code/lesson_1/模拟队列.cpp)
-6. [滑动窗口](code/lesson_1/滑动窗口.cpp)
-7. 
+6. [单调栈](code/lesson_1/单调栈.cpp)
+7. [滑动窗口](code/lesson_1/滑动窗口.cpp)
+8. [KMP字符串](code/lesson_1/KMP字符串.cpp)
+9. [trie字符串](code/lesson_1/trie字符串.cpp)
+10. [最大异或树](code/lesson_1/最大异或树.cpp)
+11. [合并集合](code/lesson_1/合并集合.cpp)
+12. [连通块中点的数量](code/lesson_1/连通块中点的数量.cpp)
+13. [食物链](code/lesson_1/食物链.cpp)
+14. [堆排序](code/lesson_1/堆排序.cpp)
+15. [模拟堆](code/lesson_1/模拟堆.cpp)
+16. [模拟散列表_拉链寻址法](code/lesson_1/模拟散列表_拉链寻址法.cpp)
+17. [模拟散列表_开放寻址法](code/lesson_1/模拟散列表_开放寻址法.cpp)
+18. [字符串哈希](code/lesson_1/字符串哈希.cpp)
+
+## 第三章 搜索与图论
+
