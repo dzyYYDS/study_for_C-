@@ -47,3 +47,9 @@
 
 ## 第三章 搜索与图论
 
+1. [数的排列](code/lesson_2/数的排列.cpp)
+2. [n皇后问题](code/lesson_2/n皇后问题.cpp)
+3. [n皇后问题解法2](code/lesson_2/n皇后问题解法2.cpp)
+4. [走迷宫](code/lesson_2/走迷宫.cpp)
+
+
