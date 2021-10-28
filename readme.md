@@ -51,5 +51,8 @@
 2. [n皇后问题](code/lesson_2/n皇后问题.cpp)
 3. [n皇后问题解法2](code/lesson_2/n皇后问题解法2.cpp)
 4. [走迷宫](code/lesson_2/走迷宫.cpp)
-
+5. [八数码](code/lesson_2/八数码.cpp)
+6. [树的中心](code/lesson_2/树的中心.cpp)
+7. [图中点的层次](code/lesson_2/图中点的层次.cpp)
+8. [有向图的拓扑序列](code/lesson_2/有向图的拓扑序列.cpp)
 
